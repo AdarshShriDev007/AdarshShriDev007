@@ -1,5 +1,4 @@
-<img align="center" alt="banner" width="100%" src="https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=" />
-<h1 align="center">Hi 👋, I'm Adarsh Shrivastava</h1>
+Hi 👋 My name is Adarsh Shrivastava
 ===================================
 
 Front End Developer (react.js)
