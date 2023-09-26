@@ -1,4 +1,4 @@
-Hi 👋 My name is Adarsh Shrivastava
+Hi 👋 I'm Adarsh Shrivastava
 ===================================
 
 Front End Developer (react.js)
