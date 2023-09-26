@@ -5,7 +5,7 @@ Front End Developer (react.js)
 ------------------------------
 
 I consider myself a responsible and orderly person. I am looking forward to my first work experience. As a passionate and dedicated React.js developer, I am eager to contribute my skills in front-end development to create engaging and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I am excited to join a dynamic team where I can learn and grow while delivering high-quality code.
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adarshshrivastava.dev@gmail.com](mailto:adarshshrivastava.dev@gmail.com)
 * 🚀  I'm currently working on [Netflix Clone](http://netflix-clone-ea05f.web.app)
