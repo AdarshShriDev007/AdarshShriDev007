@@ -29,6 +29,4 @@ I consider myself a responsible and orderly person. I am looking forward to my f
 
 <a href="http://www.github.com/AdarshShriDev007"><img src="https://github-readme-stats.vercel.app/api?username=AdarshShriDev007&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AdarshShriDev007's GitHub stats" /></a>
 
-<a href="http://www.github.com/AdarshShriDev007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshShriDev007&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/AdarshShriDev007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshShriDev007&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
